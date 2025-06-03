@@ -1,4 +1,4 @@
-#Small Python Community
+# Small Python Community
 
 A curated small community for Python developers to:
 - Learn AI/LLM-related topics
