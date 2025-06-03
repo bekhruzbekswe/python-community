@@ -1,4 +1,4 @@
-# 🧠 Telegram AI/MVP Group Guide
+# Python Community
 
 A curated Telegram group for Python developers to:
 - Learn AI/LLM-related topics
